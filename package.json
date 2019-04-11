@@ -1,0 +1,22 @@
+{
+  "name": "openshift-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prevuelta/openshift-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prevuelta/openshift-test/issues"
+  },
+  "homepage": "https://github.com/prevuelta/openshift-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
